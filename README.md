@@ -7,3 +7,16 @@ The PCB software used is KiCAD. The project is archived, you can unarchive it wi
 There is two project inside, one simply named 5G, has a UMCC connector for the antenna.
 
 The second one is called 5G_SMA, and has a SMA connector for the antenna.
+
+
+The device contains:
+
+- an antenna connector
+- a 5G n78 band filter
+- a RF detector (LTC5531)
+- a first RC filter (to remove the highest frequencies)
+- a second active RC filter (to filter and add an enventual gain)
+- a fird RC filter (to filter again, especialy the 48 MHz of the Arduino CPU that will come from the power supply, because the 3V3 of the board is used)
+
+
+This device is a part of a project on a 5G weather IoT device. A paper is availiable at: (link will be added soon)
