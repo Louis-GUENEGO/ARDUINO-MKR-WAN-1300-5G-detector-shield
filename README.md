@@ -19,7 +19,7 @@ The device contains:
 - a third RC filter (to filter again, especialy the 48 MHz of the Arduino CPU that will come from the power supply, because the 3V3 of the board is used)
 
 
-This device is a part of a project on a 5G weather IoT device. A paper is availiable at: (link will be added soon)
+This device is a part of a project on a 5G weather IoT device. A paper is available at: (link will be added soon)
 
 The code to use this shield is there: https://github.com/Louis-GUENEGO/5G-shield-program
 
