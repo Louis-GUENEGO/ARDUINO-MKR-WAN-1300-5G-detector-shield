@@ -22,3 +22,5 @@ The device contains:
 This device is a part of a project on a 5G weather IoT device. A paper is availiable at: (link will be added soon)
 
 The code to use this shield is there: https://github.com/Louis-GUENEGO/5G-shield-program
+
+The 5G antenna is here : https://github.com/Louis-GUENEGO/5G-n78-custom-antenna
